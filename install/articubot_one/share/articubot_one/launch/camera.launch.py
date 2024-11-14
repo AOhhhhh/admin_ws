@@ -1,0 +1,1 @@
+/home/artem/admin_ws/src/articubot_one/launch/camera.launch.py
